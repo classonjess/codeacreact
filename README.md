@@ -11,7 +11,7 @@ Learn React Router - from Codecademy.
 - Switch components.
 - Nested Routes.
 - useRouteMatch.
-- <Redirect>.
+- Redirect.
 - useHistory.
 - Query Parameters ( appear in the URL beginning with a question mark ) and followed by  a parameter name.
 - useLocation.
